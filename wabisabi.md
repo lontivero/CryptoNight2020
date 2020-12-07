@@ -38,7 +38,7 @@ _paginate: false
 
 * Coinjoin con uno mismo
 * Coinjoin con quien recibe (payjoin)
-* Fake conjoins
+* Fake coinjoins
 * Coin swaps
 
 <br>
@@ -66,7 +66,7 @@ Requieren de múltiples transacciones on-chain: Costosas
 
 * Siete participantes máximo
 * Coinjoin o lote de transacciones
-* Posibles subtransacciones posibles: 32.004 
+* Posibles subtransacciones: 32.004 
 
 
 ----------
@@ -119,7 +119,7 @@ Una generalización del protocolo Chaumian CoinJoin basado en un esquema keyed-v
 ## WabiSabi
 
 
-* Pagos a través de conjoins
+* Pagos a través de coinjoins
 * Pagos anónimos
 * Payjoins en coinjoins
 
